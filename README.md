@@ -1,2 +1,1 @@
-# backendGEXbot
 # backend_asistenteBot
