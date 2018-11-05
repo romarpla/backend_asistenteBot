@@ -1,0 +1,23 @@
+{
+    "name": "sheetsAsistente",
+    "version": "1.0.0",
+    "description": "reading sheets service",
+    "main": "asistente.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "expires": "0.0.1",
+        "express": "^4.16.3",
+        "googleapis": "^27.0.0"
+    },
+    "devDependencies": {
+        "eslint": "^5.5.0",
+        "eslint-config-airbnb-base": "^13.1.0",
+        "eslint-plugin-import": "^2.14.0",
+        "prettier-eslint": "^8.8.2"
+    }
+}
